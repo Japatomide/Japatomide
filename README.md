@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Japatomide
+- 👋 Hi, I’m Paul Jaiyeola @Japatomide
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning Fullstack JS
 - 💞️ I’m looking to collaborate on small scale projects because I'm still undergoing training but anything to gain xp
